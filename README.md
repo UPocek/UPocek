@@ -37,9 +37,3 @@
 <br />
 
 ---
-
-[website]: https://mattmarketing.rs/
-[twitter]: https://twitter.com/Pocek_Uros
-[youtube]: https://www.youtube.com/channel/UC8l27Nm61zO8mZDjWrdZVbA
-[instagram]: https://www.instagram.com/_pocek/
-[linkedin]: https://www.linkedin.com/in/uro%C5%A1-po%C4%8Dek-9a161b1b2/
