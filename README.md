@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning about ML
 - 👋 I make new friends easily
 - 💥 I get along well under pressure
-- 🌎 Fun fact: I love to run, play verious kind of sports and to travel
+- ⚙️ Check out my company
+- 🌎 Fun fact: I love to run, play various kind of sports and to travel
 
 ### Connect with me:
 
