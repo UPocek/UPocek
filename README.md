@@ -2,16 +2,15 @@
 
 ### I'm a Student, Developer, and CEO
 
-- 🌱 I’m currently learning about ML
+- 🌱 My main fields of interests are: artificial intelligence, machine learning and app development.
 - 👋 I make new friends easily
 - 💥 I get along well under pressure
-- ⚙️ Check out my company: https://mattmarketing.rs/
 - 🌎 Fun fact: I love to run, play various kind of sports and to travel
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](mailto:uros.pocek@gmail.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](mailto:uros.pocek@gmail.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://mattmarketing.rs/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mattmarketing.rs/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Pocek_Uros#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Pocek_Uros#gh-dark-mode-only)
@@ -34,6 +33,10 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+### Contact information:
+
+📩 [uros.pocek@gmail.com] (mailto:uros.pocek@gmail.com)
 
 <br />
 
