@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about ML
 - 👋 I make new friends easily
 - 💥 I get along well under pressure
-- ⚙️ Check out my company: [website]
+- ⚙️ Check out my company: https://mattmarketing.rs/
 - 🌎 Fun fact: I love to run, play various kind of sports and to travel
 
 ### Connect with me:
