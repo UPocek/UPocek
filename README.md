@@ -1,6 +1,6 @@
 # Hi there, I'm Uroš Poček
 
-## I'm a Student, Developer, and CEO
+### I'm a Student, Developer, and CEO
 
 - 🌱 I’m currently learning about ML
 - 👋 I make new friends easily
