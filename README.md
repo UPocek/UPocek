@@ -8,6 +8,7 @@
 - 🌎 Fun fact: I love to run, play verious kind of sports and to travel
 
 ### Connect with me:
+<br />
 
 [![website](./img/globe-light.svg)](mailto:uros.pocek@gmail.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](mailto:uros.pocek@gmail.com#gh-dark-mode-only)
@@ -22,6 +23,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_pocek#gh-dark-mode-only)
 
 ### Languages and Tools:
+<br />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
