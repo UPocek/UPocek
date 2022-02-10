@@ -21,8 +21,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_pocek#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_pocek#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/mail-light.svg | width=26)](mailto:uros.pocek@gmail.com#gh-light-mode-only)
-[![website](./img/mail-dark.svg | width=26)](mailto:uros.pocek@gmail.com#gh-dark-mode-only)
+[(./img/mail-light.svg | width=26)](mailto:uros.pocek@gmail.com#gh-light-mode-only)
+[(./img/mail-dark.svg | width=26)](mailto:uros.pocek@gmail.com#gh-dark-mode-only)
 
 ### Languages and Tools:
 
