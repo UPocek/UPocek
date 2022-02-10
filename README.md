@@ -9,10 +9,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/globe-light.svg" style="padding-right:10px;" />
-(https://mattmarketing.rs/#gh-light-mode-only)
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/globe-dark.svg" style="padding-right:10px;" />
-(https://mattmarketing.rs/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://mattmarketing.rs/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mattmarketing.rs/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Pocek_Uros#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Pocek_Uros#gh-dark-mode-only)
