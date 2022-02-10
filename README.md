@@ -36,7 +36,7 @@
 
 ### Contact information:
 
-📩 [uros.pocek@gmail.com]
+📩 uros.pocek@gmail.com
 
 <br />
 
