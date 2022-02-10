@@ -20,10 +20,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_pocek#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_pocek#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/mail-light.svg)](mailto:uros.pocek@gmail.com#gh-light-mode-only)
-[![website](./img/mail-dark.svg)](mailto:uros.pocek@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 
@@ -42,6 +38,7 @@
 
 ---
 
+[email]: uros.pocek@gmail.com
 [website]: https://mattmarketing.rs/
 [twitter]: https://twitter.com/Pocek_Uros
 [youtube]: https://www.youtube.com/channel/UC8l27Nm61zO8mZDjWrdZVbA
