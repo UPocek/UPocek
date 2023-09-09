@@ -1,8 +1,8 @@
 # Hi there, I'm Uroš Poček
 
-### I'm a Student, Developer, and CEO
+### I'm a Student, Developer, and Startup Founder 
 
-- 🌱 My main fields of interests are: artificial intelligence, machine learning and app development.
+- 🌱 My main field of interest is: developing startups that can make positive changes in the world
 - 👋 I make new friends easily
 - 💥 I get along well under pressure
 - 🌎 Fun fact: I love to run marathons, play various kind of sports and to travel
@@ -12,14 +12,17 @@
 [![website](./img/globe-light.svg)](https://mattmarketing.rs/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://mattmarketing.rs/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Pocek_Uros#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Pocek_Uros#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/Pocek_Uros#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/Pocek_Uros#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/uro%C5%A1-po%C4%8Dek-9a161b1b2#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/uro%C5%A1-po%C4%8Dek-9a161b1b2#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/uro%C5%A1-po%C4%8Dek-9a161b1b2#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/uro%C5%A1-po%C4%8Dek-9a161b1b2#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_pocek#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/_pocek#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/_pocek#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/_pocek#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![youtube](./img/youtube-light.svg)](https://www.youtube.com/@studentfounders#gh-light-mode-only)
+[![youtube](./img/youtube-dark.svg)](https://www.youtube.com/@studentfounders#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -44,6 +47,6 @@
 [email]: uros.pocek@gmail.com
 [website]: https://mattmarketing.rs/
 [twitter]: https://twitter.com/Pocek_Uros
-[youtube]: https://www.youtube.com/channel/UC8l27Nm61zO8mZDjWrdZVbA
+[youtube]: https://www.youtube.com/@studentfounders
 [instagram]: https://www.instagram.com/_pocek/
 [linkedin]: https://www.linkedin.com/in/uro%C5%A1-po%C4%8Dek-9a161b1b2/
